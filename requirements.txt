@@ -1,0 +1,18 @@
+# Gridworld SARSA vs Q-Learning Implementation
+# dependencies for reinforcement learning algos and visualization
+
+# Numerical computing and array operations
+numpy>=1.21.0
+
+# Plotting and visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Optional: Enhanced Jupyter notebook experience
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Performance and compatibility
+pandas>=1.3.0
+scipy>=1.7.0
+
